@@ -7,7 +7,7 @@
 ### Overview
 
 #### Sequence mechanism
-In Magento there is a sequence mechanism, which can be considered as system-generated entity UUID. We already have this mechanism for the following entities:
+In Magento there is a sequence mechanism, which provides system-generated entity identifier. We already have this mechanism for the following entities:
 
 **Magento CE (SalesSequence):**
 * Order
